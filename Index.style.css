@@ -1,0 +1,36 @@
+.container{
+	display: flex;
+}
+
+.container1{
+	color: #c2eaff;
+	float: left;
+}
+
+body{
+	background-color: #bde8ff;
+	font-family: Gill Sans;
+	font-size: 15px;
+	text-align: center;
+}
+
+table,tr,td{
+	border: 3px solid #ffffff;
+	padding: 1px;
+}
+
+img{
+	height: 350px;
+	width: 350px;
+}
+
+a{
+	font-family: Times New Roman;
+	color: #011e2e;
+	font-weight: bold;
+}
+
+.rounded{
+	border: 2.5px solid #00a6ff;
+	padding: 1.5px;
+}
